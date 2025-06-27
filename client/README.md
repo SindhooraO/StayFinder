@@ -1,0 +1,2 @@
+## StayFinder
+StayFinder is a MERN stack-based web application designed to help users search, list, and book rental stays or accommodations. The app features user authentication, listings with filters, responsive UI, and more.
